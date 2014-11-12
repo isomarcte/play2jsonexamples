@@ -32,9 +32,9 @@ This example repo assumes that you will be generally testing things
 out via the `sbt` and the scala interpreter.
 
 To try out the examples you need to have `sbt` installed. For
-information on how to install click here -> [sbt][sbt].
+information on how to install it, click here -> [sbt][sbt].
 
-Assuming that you have `sbt` installed, you get started playing with
+Assuming that you have `sbt` installed, you can get started playing with
 the examples by running his command in the top level folder.
 
     $ sbt console

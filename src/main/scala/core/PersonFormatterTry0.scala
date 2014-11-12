@@ -28,6 +28,10 @@ import core.Util.isPrime
   * Issues:
   * - Quite verbose
   * - Not too helpful error messages.
+  *
+  * We could make this version better, but in practice it is often easier to
+  * use the other methods that the other [[play.api.libs.json.Format]]
+  * instance in this example repo use.
   */
 object PersonFormatterTry0 extends Format[Person] {
 
