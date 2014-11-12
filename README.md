@@ -14,9 +14,9 @@ Hopefully these examples, which are by no means exhaustive, help shed
 some light on how these very useful tools work. I want to be clear,
 you should probably read through the [play-json][playjson]
 documentation first. It is quite good and well written. These examples
-were of some use in helping some colleagues through their confusion on
-some parts of the [play-json][playjson] API, so I thought I would put
-them up here so that they may be of help to other people as well.
+were helpful with some people in clarifying some parts of the
+[play-json][playjson] API, so I thought I would put them up here so
+that they may be of help to other people as well.
 
 If you find anything unclear, or any errors, please create an issue
 and I will attempt to address it as soon as possible!
